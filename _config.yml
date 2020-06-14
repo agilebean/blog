@@ -36,8 +36,8 @@ footer-links:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: @agilebean
-  stackoverflow: # "users/7769076/agile-bean"
+  twitter: agilebean
+  stackoverflow: "users/7769076/agile-bean""
   youtube: # channel/<your_long_string> or user/<user-name>
 
 
